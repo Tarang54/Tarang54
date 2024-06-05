@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarang54" alt="tarang54" /></a> </p>
 
-- 🔭 I’m currently working in **ClassPlus** as a Full stack Web Developer
+- 🔭 I’m currently working in **ClassPlus** as a Full stack Web Developer Intern
 
 - 🌱 I’m currently learning **next.js**
 
