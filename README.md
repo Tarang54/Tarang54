@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tarang54](https://github.com/Tarang54)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Tarang54)
 
 - 💬 Ask me about **MERN and DSA**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tarangsultania54@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/129FDoxXB17MoFwvWFx829O7GPrF9qXvY/view?usp=sharing](https://drive.google.com/file/d/129FDoxXB17MoFwvWFx829O7GPrF9qXvY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RA-gUwXEVsVH0SYZmmkWI_d1vT0Q1nnM/view?usp=sharing)
 
 - ⚡ Hobbies **Playing guitar, Cooking and Travelling**
 
