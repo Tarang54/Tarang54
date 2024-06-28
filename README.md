@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN and DSA**
 
-- 📝 I regularly Post articles on [LinkedIn](https://www.linkedin.com/in/tarangsultania54/)
+- 📝 I regularly Post on [LinkedIn](https://www.linkedin.com/in/tarangsultania54/)
 
 - 📫 How to reach me **tarangsultania54@gmail.com**
 
