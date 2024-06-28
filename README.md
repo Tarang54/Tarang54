@@ -16,7 +16,7 @@
 
 - 📝 I regularly Post on [LinkedIn](https://www.linkedin.com/in/tarangsultania54/)
 
-- 📫 How to reach me **tarangsultania54@gmail.com**
+- 📫 How to reach me [G Mail](tarangsultania54@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RA-gUwXEVsVH0SYZmmkWI_d1vT0Q1nnM/view?usp=sharing)
 
