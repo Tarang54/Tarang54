@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **next.js**
 
 <img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Tarang54)
 
 - 💬 Ask me about **MERN and DSA**
 
