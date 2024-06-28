@@ -8,9 +8,8 @@
 
 - 🔭 I’m currently working in **ClassPlus** as a Full stack Web Developer Intern
 
-<img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
 - 🌱 I’m currently learning **next.js**
-
+<img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
 
 - 💬 Ask me about **MERN and DSA**
 
