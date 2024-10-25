@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tarangsultania54@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1JdohbN--zOknJJcMRf4fZHWILT7L2LLE/view?usp=sharing](https://drive.google.com/file/d/1cJQHavqICOSFw6LKSRXC5dq8FU4v-j9e/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cJQHavqICOSFw6LKSRXC5dq8FU4v-j9e/view)
 
 - ⚡ Hobbies **Playing guitar, Cooking and Travelling**
 
