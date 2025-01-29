@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarang54" alt="tarang54" /></a> </p>
 
-- 🔭 I’m currently working in **ClassPlus** as a Full stack Web Developer Intern
+- 🔭 I’m currently working in **ClassPlus** as a Front end developer
 
 - 🌱 I’m currently learning **next.js**
 <img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarang54&show_icons=true&locale=en&layout=compact" alt="tarang54" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarang54&show_icons=true&locale=en" alt="tarang54" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarang54&" alt="tarang54" /></p>
